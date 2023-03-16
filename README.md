@@ -1,4 +1,7 @@
-## Bem-vindo(a) ao perfil do Eduardo Pinheiro 😁
+## Olá!! eu sou Eduardo Pinheiro 😁
+
+🧑🏽‍💻 Futuro Front-end <br>
+✍🏼 Estudando HTML, CSS, JAVASCRIPT & REACT.
 
  <div>
    <a href="https://github.com/EduardoPinheiroo">
